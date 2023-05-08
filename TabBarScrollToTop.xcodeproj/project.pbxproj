@@ -15,6 +15,7 @@
 		4023C6482A09764A0059019E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4023C6462A09764A0059019E /* LaunchScreen.storyboard */; };
 		4023C6502A09768C0059019E /* MainTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4023C64F2A09768C0059019E /* MainTabBarController.swift */; };
 		4023C6522A0976E60059019E /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4023C6512A0976E60059019E /* SettingsViewController.swift */; };
+		4023C6542A0986580059019E /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4023C6532A0986580059019E /* CustomCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4023C6492A09764A0059019E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4023C64F2A09768C0059019E /* MainTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabBarController.swift; sourceTree = "<group>"; };
 		4023C6512A0976E60059019E /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		4023C6532A0986580059019E /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				4023C63F2A09764A0059019E /* HomeViewController.swift */,
 				4023C6512A0976E60059019E /* SettingsViewController.swift */,
 				4023C64F2A09768C0059019E /* MainTabBarController.swift */,
+				4023C6532A0986580059019E /* CustomCell.swift */,
 				4023C6412A09764A0059019E /* Main.storyboard */,
 				4023C6442A09764A0059019E /* Assets.xcassets */,
 				4023C6462A09764A0059019E /* LaunchScreen.storyboard */,
@@ -148,6 +151,7 @@
 				4023C63C2A09764A0059019E /* AppDelegate.swift in Sources */,
 				4023C6502A09768C0059019E /* MainTabBarController.swift in Sources */,
 				4023C6522A0976E60059019E /* SettingsViewController.swift in Sources */,
+				4023C6542A0986580059019E /* CustomCell.swift in Sources */,
 				4023C63E2A09764A0059019E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
